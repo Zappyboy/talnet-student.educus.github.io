@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cb7f331-e17c-4c45-8163-098d61790243" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9cb7f331-e17c-4c45-8163-098d61790243" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577275614778</updated>
-      <workItem from="1577275615932" duration="8562000" />
+      <workItem from="1577275615932" duration="8807000" />
     </task>
     <servers />
   </component>
@@ -100,6 +97,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="393" y="28" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1577280636230" />
+    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1577284520551">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1577284520551" />
     <state x="277" y="76" key="SettingsEditor" timestamp="1577275618596">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
