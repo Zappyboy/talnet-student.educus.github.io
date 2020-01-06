@@ -3,6 +3,27 @@
   <component name="ChangeListManager">
     <list default="true" id="9cb7f331-e17c-4c45-8163-098d61790243" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/account.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/agenda.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/agenda.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/algemeneinformatie.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/algemeneinformatie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/inloopcolleges.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/inloopcolleges.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/opleiding/documenten.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/opleiding/documenten.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/opleiding/dossier.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/opleiding/dossier.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/opleiding/groepen.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/opleiding/groepen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/opleiding/keuzevakken.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/opleiding/keuzevakken.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/opleiding/opleiding.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/opleiding/opleiding.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/opleiding/vakken.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/opleiding/vakken.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/personalia.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/personalia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/presentie.overzicht/absentie.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/presentie.overzicht/absentie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/presentie.overzicht/overzicht.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/presentie.overzicht/overzicht.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/presentie.overzicht/presentie.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/presentie.overzicht/presentie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/resultaten.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/resultaten.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/school.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/school.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/stage.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/stage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/studievoortgang.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/studievoortgang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/toetsmomenten.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/toetsmomenten.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eduarte/werklijst.html" beforeDir="false" afterPath="$PROJECT_DIR$/eduarte/werklijst.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +65,15 @@
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hello\PhpstormProjects\educus" />
+      <recent name="C:\Users\hello\PhpstormProjects\educus\assets" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hello\PhpstormProjects\educus" />
       <recent name="C:\Users\hello\PhpstormProjects\educus\eduarte" />
       <recent name="C:\Users\hello\PhpstormProjects\educus\wicket\resource" />
       <recent name="C:\Users\hello\PhpstormProjects\educus\assets\img" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hello\PhpstormProjects\educus\assets" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -79,6 +101,7 @@
       <workItem from="1577275615932" duration="9544000" />
       <workItem from="1577358904291" duration="2069000" />
       <workItem from="1577361144199" duration="97000" />
+      <workItem from="1578296321972" duration="304000" />
     </task>
     <servers />
   </component>
@@ -113,10 +136,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="465" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1577361239265" />
-    <state x="578" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577280645430">
+    <state x="578" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578296629710">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="578" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1577280645430" />
+    <state x="578" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1578296629710" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1577283687037">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
